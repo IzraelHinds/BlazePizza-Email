@@ -1,0 +1,154 @@
+<mjml>
+  <mj-body>
+    
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://github.com/IzraelHinds/blazeimage/blob/60038bd69c0314d53ad8dde9305c12be7da7d907/blaze.png?raw=true" alt="logo" width="300px" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-column width="60%" vertical-align="top">
+      <mj-text align="left">
+      <strong style="font-size:11pt; line-height:22px">BLAZE PIZZA ATLANTA WEST MIDTOWN</strong><br>
+        <span style="font-size:11pt">Northside Drive and 17th Street, Atlanta, GA 30318</span><br><br>
+        <span style="font-size:11pt">(404) 991-3318</span>
+      </mj-text>
+      </mj-column>
+        <mj-column width="40%" vertical-align="top">
+        <mj-text align="right" padding="4px"><span style="line-height:20px; font-size:11pt">Order # 2089667681</span><br>
+          <span style="font-size:10px">(Note: You do not need<br>
+this number to pickup)</span>
+          </mj-text>
+        </mj-column>
+    </mj-section>
+          <mj-section padding="0px">
+          <mj-column>
+            <mj-text>
+            <span style="font-size:11pt">Customer Name:</span>
+            </mj-text>
+            <mj-text><span style="font-size:11pt">Customer Email:</span></mj-text>
+            <mj-text><span style="font-size:11pt">Customer Contact Number:</span></mj-text>
+            </mj-column>
+            <mj-column>
+            <mj-text><span style="font-size:11pt">Izrael Hinds</span></mj-text>
+              <mj-text><a href="#" style="font-size:11pt">izraelhinds9@gmail.com</a></mj-text>
+              <mj-text><span style="font-size:11pt">16783159372</span></mj-text>
+            </mj-column>
+          </mj-section>
+          <mj-section>
+          <mj-column>
+            <mj-text>
+            <strong style="font-size:11pt">Payment Method: Credit Card Mastercard x-2262</strong>
+            </mj-text>
+            <mj-text>
+            <strong style="font-size:11pt; line-height:22px ">ORDER FOR PICKUP</strong><br>
+              <span style="font-size:11pt">Order ready at <strong>9:26 PM</strong>, TODAY (WEDNESDAY, 4/21/2021)</span>
+            </mj-text>
+              <mj-text padding-top="20px"><span style="font-size:11pt; line-height:22px">When you arrive, don’t bother with the line. Just head to our Fast-Fire’d Pick-Up Station to grab your order.</span></mj-text>
+            </mj-column>
+          </mj-section>
+            <mj-section padding="0px">
+            <mj-column>
+              <mj-text><span style="font-size:11pt; line-height:22px">Want to get free pizza and other delicious rewards? <strong><a href="#">Sign-up to join Blaze Rewards on the Blaze Pizza App.</a></strong></span></mj-text>
+              <mj-divider border-width="3px"></mj-divider>
+              <mj-table>
+              <tr>
+                <td width="60%" style="font-size:11pt">
+                1 x Simple Pie (Large)
+                </td>
+                <td width="20%" style="font-size:11pt">(1 x $10.95)</td>
+                <td width="5%" style="font-size:11pt">=</td>
+                <td align="right" style="font-size:11pt">$10.95</td>
+                </tr>
+              </mj-table>
+              <mj-table>
+              <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x No Shredded Mozzarella</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x No Parmesan</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x Vegan Cheese</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x Arugula</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x Olive Oil Drizzle</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x Sea Salt</li>
+                  </ul>
+                </td>
+                </tr>
+                <tr>
+                <td>
+                <ul style="margin-left:2.4em">
+                  <li>1 x Oregano</li>
+                  </ul>
+                </td>
+                </tr>
+              </mj-table>
+              <mj-table>
+              <tr>
+                <td width="50%" align="left" style="font-size:11pt">
+                SUBTOTAL
+                </td>
+                <td width="50%" align="right" style="font-size:11pt">
+                $10.95 
+                </td>
+                </tr>
+                <tr>
+                <td width="50%" align="left" style="font-size:11pt">
+                  TAX
+                  </td>
+                  <td width="50%" align="right" style="font-size:11pt">
+                  $0.97
+                  </td>
+                </tr>
+                <tr>
+                <td align="left" style="padding-top:16px">
+                  <strong style="font-size:11pt">TOTAL</strong>
+                  </td>
+                  <td align="right" style="padding-top:16px">
+                  <strong style="font-size:11pt">$11.92</strong>
+                  </td>
+                </tr>
+              </mj-table>
+              <mj-divider border-width="9px" padding-top="0px"></mj-divider>
+              <mj-table>
+              <tr>
+                <td style="font-size:10px; line-height:16px">
+                Note: Add <a href="#">noreply@olo.com</a> to your safe-senders list so that you are sure to receive our messages.<br>
+Order placed at 9:06 PM
+                </td>
+                </tr>
+              </mj-table>
+              </mj-column>
+            </mj-section>
+            
+  </mj-body>
+</mjml>
